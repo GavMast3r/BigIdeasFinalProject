@@ -16,4 +16,4 @@ I used the csv (by neighborhood) contained in this dataset to make inferences ab
 
 Gavin Frankenberg's Dataset:
 https://data.wprdc.org/dataset/pittsburgh-public-schools-enrollment/resource/7b0660d1-c812-496d-ab0a-8560902e9e70
-I used the Enrollment 2020-21 by School and Neighborhood to draw conclusions on the quality of neighborhoods through their respective enrolled student counts. I chose not to incorporate the specific schools of the dataset, opting instead to sum the schools enroll counts in the same neighborhood as that would give a more broad representation of the neighborhood. No factors such as race or gender were present in the dataset and therefore were not present in my analysis.
+I used the Enrollment 2020-21 by School and Neighborhood to draw conclusions on the quality of neighborhoods through their respective enrolled student counts. I chose not to incorporate the specific schools of the dataset, opting instead to sum the enroll counts in the same neighborhood as that would give a more broad representation of the neighborhood's education. No factors such as race or gender were present in the dataset and therefore were not present in my analysis.
