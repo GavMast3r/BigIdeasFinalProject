@@ -4,6 +4,10 @@ Team Name:
 
 G.A.C Inc.
 
+Overview: 
+
+This repository contains our group's work with three metrics which were evaluated to make a claim about the best neighborhood in Pittsburgh. The individual notebooks contain each of our metrics on their own, while the group notebook combines them to make our overarching decision. 
+
 Team Members: 
 
 Alex Myrick (acm272@pitt.edu)
